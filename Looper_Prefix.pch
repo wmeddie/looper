@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Looper' target in the 'Looper' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
